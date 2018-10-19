@@ -8,3 +8,6 @@
 * The value of each crystal is hidden from you until you click on it.
 * You win the game by matching your total score to random number
 * Enjoy!
+
+
+### Link to Website: [Gems Game](https://lugof.github.io/unit-4-game/).
